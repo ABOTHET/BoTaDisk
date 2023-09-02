@@ -2,6 +2,8 @@
 /dist
 /node_modules
 
+# yaml(ENV)
+src/config/.env
 # Logs
 logs
 *.log
